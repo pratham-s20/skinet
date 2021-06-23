@@ -1,0 +1,6 @@
+obj
+bin
+API\bin
+API\appsettings.json
+API\*.db
+
